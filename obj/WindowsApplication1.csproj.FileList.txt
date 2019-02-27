@@ -1,0 +1,44 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.Excel.dll
+obj\Release\Interop.Microsoft.Office.Core.dll
+obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+obj\Release\Interop.VBIDE.dll
+obj\Release\WindowsApplication1.csproj.ResolveComReference.cache
+obj\Release\WindowsApplication1.Report1.rdlc
+obj\Release\WindowsApplication1.Form1.resources
+obj\Release\WindowsApplication1.Properties.Resources.resources
+obj\Release\WindowsApplication1.csproj.GenerateResource.Cache
+obj\Release\RdlCompile.cache
+obj\Release\RdlCompile.compiled
+bin\Release\Interop.Excel.dll
+bin\Release\Interop.Microsoft.Office.Core.dll
+bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+bin\Release\Interop.VBIDE.dll
+bin\Debug\Interop.Excel.dll
+bin\Debug\Interop.Microsoft.Office.Core.dll
+bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+bin\Debug\Interop.VBIDE.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.Excel.dll
+obj\Debug\Interop.Microsoft.Office.Core.dll
+obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+obj\Debug\Interop.VBIDE.dll
+obj\Debug\WindowsApplication1.csproj.ResolveComReference.cache
+obj\Debug\WindowsApplication1.Report1.rdlc
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Loading_screen.resources
+obj\Debug\WindowsApplication1.Properties.Resources.resources
+obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+obj\Debug\RdlCompile.cache
+obj\Debug\RdlCompile.compiled
+obj\Debug\WindowsApplication1.Help.resources
+bin\Debug\Serial Port GDM-8246.exe
+bin\Debug\Serial Port GDM-8246.pdb
+obj\Debug\Serial Port GDM-8246.exe
+obj\Debug\Serial Port GDM-8246.pdb
+bin\Release\Serial Port GDM-8246.exe
+bin\Release\Serial Port GDM-8246.pdb
+obj\Release\WindowsApplication1.Help.resources
+obj\Release\WindowsApplication1.Loading_screen.resources
+obj\Release\Serial Port GDM-8246.exe
+obj\Release\Serial Port GDM-8246.pdb
